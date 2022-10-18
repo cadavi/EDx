@@ -3,7 +3,7 @@
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname |Strings and images pt1|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
 ;"apple"
 
-(string-append "Ada" " " "Lovelace")
+(string-append "Ada " "Lovelace")
 
 (string-length "carlos")
 
